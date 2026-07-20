@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#g)"/>
+  <g opacity="0.35">
+    <rect x="120" y="180" width="180" height="140" rx="24" fill="none" stroke="#22d3ee" stroke-width="3"/>
+    <path d="M160 260 h100 M210 210 v100" stroke="#22d3ee" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="210" cy="250" r="28" fill="#22d3ee" opacity="0.25"/>
+  </g>
+  <g opacity="0.35">
+    <rect x="340" y="340" width="180" height="140" rx="24" fill="none" stroke="#ec4899" stroke-width="3"/>
+    <path d="M380 420 h100 M430 370 v100" stroke="#ec4899" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="430" cy="410" r="28" fill="#ec4899" opacity="0.25"/>
+  </g>
+  <g opacity="0.35">
+    <rect x="560" y="180" width="180" height="140" rx="24" fill="none" stroke="#a855f7" stroke-width="3"/>
+    <path d="M600 260 h100 M650 210 v100" stroke="#a855f7" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="650" cy="250" r="28" fill="#a855f7" opacity="0.25"/>
+  </g>
+  <g opacity="0.35">
+    <rect x="120" y="680" width="180" height="140" rx="24" fill="none" stroke="#10b981" stroke-width="3"/>
+    <path d="M160 760 h100 M210 710 v100" stroke="#10b981" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="210" cy="750" r="28" fill="#10b981" opacity="0.25"/>
+  </g>
+  <g opacity="0.35">
+    <rect x="340" y="680" width="180" height="140" rx="24" fill="none" stroke="#f59e0b" stroke-width="3"/>
+    <path d="M380 760 h100 M430 710 v100" stroke="#f59e0b" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="430" cy="750" r="28" fill="#f59e0b" opacity="0.25"/>
+  </g>
+  <circle cx="600" cy="900" r="180" fill="#22d3ee" opacity="0.08"/>
+  <circle cx="150" cy="900" r="200" fill="#ec4899" opacity="0.06"/>
+</svg>

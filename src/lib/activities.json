@@ -1,0 +1,170 @@
+[
+  {
+    "id": "a1",
+    "userId": "15baa840-9d91-4346-9db0-f9a4561fe1de",
+    "action": "Logged in",
+    "detail": "Admin logged in from Chrome on Windows",
+    "createdAt": "2026-07-16T10:55:22.315Z"
+  },
+  {
+    "id": "a2",
+    "userId": "15baa840-9d91-4346-9db0-f9a4561fe1de",
+    "action": "Viewed Dashboard",
+    "detail": "Admin viewed the dashboard",
+    "createdAt": "2026-07-16T10:56:00.000Z"
+  },
+  {
+    "id": "a3",
+    "userId": "e7397dcb-9838-4295-b925-e7c4094c1064",
+    "action": "Signed up",
+    "detail": "User created account from Safari on iPhone",
+    "createdAt": "2026-07-16T11:22:45.715Z"
+  },
+  {
+    "id": "a4",
+    "userId": "e7397dcb-9838-4295-b925-e7c4094c1064",
+    "action": "Logged in",
+    "detail": "User logged in from Safari on iPhone",
+    "createdAt": "2026-07-16T11:23:00.000Z"
+  },
+  {
+    "id": "a5",
+    "userId": "f0219c28-d883-4456-b804-7d8b7e708c01",
+    "action": "Signed up",
+    "detail": "User created account from Firefox on MacOS",
+    "createdAt": "2026-07-16T12:14:38.441Z"
+  },
+  {
+    "id": "a6",
+    "userId": "f0219c28-d883-4456-b804-7d8b7e708c01",
+    "action": "Logged in",
+    "detail": "User logged in from Firefox on MacOS",
+    "createdAt": "2026-07-16T12:15:00.000Z"
+  },
+  {
+    "id": "1a7dbaf7-4503-4c86-8665-ce7f2713884e",
+    "userId": "15baa840-9d91-4346-9db0-f9a4561fe1de",
+    "action": "Logged in",
+    "detail": "User logged in from web",
+    "createdAt": "2026-07-16T12:53:33.727Z"
+  },
+  {
+    "id": "7e257bc4-ffce-4c76-9f0c-03bfeb6ab648",
+    "userId": "15baa840-9d91-4346-9db0-f9a4561fe1de",
+    "action": "Updated profile",
+    "detail": "User updated their profile information",
+    "createdAt": "2026-07-16T13:12:30.475Z"
+  },
+  {
+    "id": "99cf5ef4-bab0-4138-ba44-0752bcd5a183",
+    "userId": "15baa840-9d91-4346-9db0-f9a4561fe1de",
+    "action": "Updated profile",
+    "detail": "User updated their profile information",
+    "createdAt": "2026-07-16T13:17:43.228Z"
+  },
+  {
+    "id": "8087bff9-5ab3-4ef6-a7aa-4f174ad3b10d",
+    "userId": "15baa840-9d91-4346-9db0-f9a4561fe1de",
+    "action": "Updated profile",
+    "detail": "User updated their profile information",
+    "createdAt": "2026-07-16T13:35:40.643Z"
+  },
+  {
+    "id": "8a468af7-a88a-4c59-b496-39d17f333b19",
+    "userId": "15baa840-9d91-4346-9db0-f9a4561fe1de",
+    "action": "Updated profile",
+    "detail": "User updated their profile information",
+    "createdAt": "2026-07-16T14:10:23.414Z"
+  },
+  {
+    "id": "d4818baf-be3f-4e78-9935-12369580cc9e",
+    "userId": "15baa840-9d91-4346-9db0-f9a4561fe1de",
+    "action": "Logged in",
+    "detail": "User logged in from web",
+    "createdAt": "2026-07-17T14:26:55.390Z"
+  },
+  {
+    "id": "797948e5-670b-4bc9-a1c0-57954cb33177",
+    "userId": "15baa840-9d91-4346-9db0-f9a4561fe1de",
+    "action": "Logged in",
+    "detail": "User logged in from web",
+    "createdAt": "2026-07-17T14:28:39.734Z"
+  },
+  {
+    "id": "3616a923-e376-437b-b30a-90b2eee60841",
+    "userId": "15baa840-9d91-4346-9db0-f9a4561fe1de",
+    "action": "Updated profile",
+    "detail": "User updated their profile information",
+    "createdAt": "2026-07-17T14:32:03.388Z"
+  },
+  {
+    "id": "efff0085-24d3-43dc-a5df-f9fa8aa5809b",
+    "userId": "e7397dcb-9838-4295-b925-e7c4094c1064",
+    "action": "Logged in",
+    "detail": "User logged in from web",
+    "createdAt": "2026-07-17T14:34:05.427Z"
+  },
+  {
+    "id": "9b7bda79-e168-496a-98c6-96fca1d312ba",
+    "userId": "15baa840-9d91-4346-9db0-f9a4561fe1de",
+    "action": "Updated profile",
+    "detail": "User updated their profile information",
+    "createdAt": "2026-07-18T09:18:48.719Z"
+  },
+  {
+    "id": "b75f5103-edea-498c-8d5e-7c4c889a6fc8",
+    "userId": "15baa840-9d91-4346-9db0-f9a4561fe1de",
+    "action": "Updated profile",
+    "detail": "User updated their profile information",
+    "createdAt": "2026-07-18T09:26:09.291Z"
+  },
+  {
+    "id": "87818284-ccd9-4ba0-b3b0-e1239bfed0b2",
+    "userId": "15baa840-9d91-4346-9db0-f9a4561fe1de",
+    "action": "Logged in",
+    "detail": "User logged in from web",
+    "createdAt": "2026-07-19T12:24:59.767Z"
+  },
+  {
+    "id": "5f2a2876-d8da-4fed-b339-61d3fa15a7b2",
+    "userId": "15baa840-9d91-4346-9db0-f9a4561fe1de",
+    "action": "Logged in",
+    "detail": "User logged in from web",
+    "createdAt": "2026-07-19T14:10:40.128Z"
+  },
+  {
+    "id": "236cf93d-23b9-46b7-a20e-3e49e3c5d92f",
+    "userId": "e7397dcb-9838-4295-b925-e7c4094c1064",
+    "action": "Logged in",
+    "detail": "User logged in from web",
+    "createdAt": "2026-07-19T15:05:01.992Z"
+  },
+  {
+    "id": "c5fb4167-b8da-415c-89c8-37bb6d429e60",
+    "userId": "e7397dcb-9838-4295-b925-e7c4094c1064",
+    "action": "Updated profile",
+    "detail": "User updated their profile information",
+    "createdAt": "2026-07-19T15:07:23.431Z"
+  },
+  {
+    "id": "041a8d33-c886-44c0-99c7-92767988af7a",
+    "userId": "f0219c28-d883-4456-b804-7d8b7e708c01",
+    "action": "Logged in",
+    "detail": "User logged in from web",
+    "createdAt": "2026-07-19T15:13:26.926Z"
+  },
+  {
+    "id": "5efeccbd-d6ba-41ae-9d6d-41125bb5c168",
+    "userId": "f0219c28-d883-4456-b804-7d8b7e708c01",
+    "action": "Updated profile",
+    "detail": "User updated their profile information",
+    "createdAt": "2026-07-19T15:15:03.581Z"
+  },
+  {
+    "id": "bb1f7f89-175f-4b66-b695-b1a97ae7b194",
+    "userId": "f0219c28-d883-4456-b804-7d8b7e708c01",
+    "action": "Logged in",
+    "detail": "User logged in from web",
+    "createdAt": "2026-07-19T16:33:51.042Z"
+  }
+]
